@@ -11,3 +11,28 @@
 *DURATION* : 4 WEEKS
 
 *MENTOR* : NEELA SANTOSH
+
+*DESCRIPTION*: This personal portfolio website is designed and developed to showcase my skills, projects, and creative journey as a Web & App Developer with a strong focus on UI/UX design and front-end development. The goal of this portfolio is not only to display my work, but also to reflect my design thinking, attention to detail, and approach to building clean, user-friendly digital experiences.
+
+The portfolio features a responsive and modern layout that adapts smoothly across different screen sizes, ensuring a consistent experience on desktop, tablet, and mobile devices. It includes dedicated sections for About, Skills, Work, and Contact, allowing visitors to easily understand my background, technical expertise, and the kind of projects I work on. Subtle animations and visual elements are used to enhance usability without overwhelming the interface.
+
+Built using HTML, CSS, and JavaScript, the site emphasizes clean code structure, maintainability, and performance. The UI design focuses on clarity, spacing, and visual hierarchy, while the UX ensures intuitive navigation and accessibility.
+
+Overall, this portfolio represents my passion for combining design and development to create meaningful digital experiences, and it continues to evolve as I learn, experiment, and grow as a developer.
+
+# Features
+Responsive design for all screen sizes
+
+Clean and modern UI layout
+
+Smooth single-page navigation
+
+Visual skill representation using progress bars
+
+Dedicated projects/work showcase section
+
+Custom logo and personal branding
+
+Lightweight and fast performance
+
+Simple and intuitive user experience
