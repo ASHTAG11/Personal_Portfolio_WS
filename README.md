@@ -47,3 +47,4 @@ Simple and intuitive user experience
 
 <img width="1919" height="1078" alt="Image" src="https://github.com/user-attachments/assets/2eff4aac-44b0-4164-89b3-35c942e58412" />
 
+<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/9280db02-0f51-4ad8-b3af-2477fae0c15c" />
