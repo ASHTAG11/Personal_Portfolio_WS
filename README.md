@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-*DESCRIPTION*: This personal portfolio website is designed and developed to showcase my skills, projects, and creative journey as a Web & App Developer with a strong focus on UI/UX design and front-end development. The goal of this portfolio is not only to display my work, but also to reflect my design thinking, attention to detail, and approach to building clean, user-friendly digital experiences.
+*DESCRIPTION*: This personal portfolio website "A-Craft" is designed and developed to showcase my skills, projects, and creative journey as a Web & App Developer with a strong focus on UI/UX design and front-end development. The goal of this portfolio is not only to display my work, but also to reflect my design thinking, attention to detail, and approach to building clean, user-friendly digital experiences.
 
 The portfolio features a responsive and modern layout that adapts smoothly across different screen sizes, ensuring a consistent experience on desktop, tablet, and mobile devices. It includes dedicated sections for About, Skills, Work, and Contact, allowing visitors to easily understand my background, technical expertise, and the kind of projects I work on. Subtle animations and visual elements are used to enhance usability without overwhelming the interface.
 
