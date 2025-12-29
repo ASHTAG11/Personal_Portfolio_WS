@@ -36,3 +36,8 @@ Custom logo and personal branding
 Lightweight and fast performance
 
 Simple and intuitive user experience
+
+# OUTPUT
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a2789a03-083d-48e2-ae51-0d14a7f96100" />
+<img width="1919" height="1070" alt="Image" src="https://github.com/user-attachments/assets/ee327b6a-adb5-43d4-9105-8488051510fa" />
