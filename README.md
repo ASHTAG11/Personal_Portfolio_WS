@@ -20,7 +20,7 @@ Built using HTML, CSS, and JavaScript, the site emphasizes clean code structure,
 
 Overall, this portfolio represents my passion for combining design and development to create meaningful digital experiences, and it continues to evolve as I learn, experiment, and grow as a developer.
 
-# Features
+# FEATURES
 Responsive design for all screen sizes
 
 Clean and modern UI layout
