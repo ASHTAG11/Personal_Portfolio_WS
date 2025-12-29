@@ -39,5 +39,11 @@ Simple and intuitive user experience
 
 # OUTPUT
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a2789a03-083d-48e2-ae51-0d14a7f96100" />
 <img width="1919" height="1070" alt="Image" src="https://github.com/user-attachments/assets/ee327b6a-adb5-43d4-9105-8488051510fa" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a2789a03-083d-48e2-ae51-0d14a7f96100" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/db8a7603-9c31-41dc-8866-058d709559e3" />
+
+<img width="1919" height="1078" alt="Image" src="https://github.com/user-attachments/assets/2eff4aac-44b0-4164-89b3-35c942e58412" />
+
